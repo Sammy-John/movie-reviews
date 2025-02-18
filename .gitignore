@@ -1,0 +1,28 @@
+# Jekyll-specific files
+_site/
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/
+_drafts/
+
+# Bundler
+Gemfile.lock
+vendor/
+
+# Node modules
+node_modules/
+package-lock.json
+yarn.lock
+
+# System files
+.DS_Store
+Thumbs.db
+.idea/
+
+# Unnecessary Jekflix files
+src/
+gulpfile.js
+jekflix.gemspec
+docs/
+admin/
+initpost.sh
